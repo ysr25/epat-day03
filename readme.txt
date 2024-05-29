@@ -24,3 +24,20 @@ git commit -m "added readme.txt"
 
 git branch
 
+git push -u origin develop
+
+-> create new file
+
+git add testfile.txt 
+
+git status
+
+git reset HEAD
+
+git add *
+
+git commit -m "addgi testfile.txt"
+
+git log
+
+
